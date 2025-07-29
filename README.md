@@ -19,8 +19,8 @@ is included at the root level to document the project.
 
 The README will be structured as follows: first, it will outline the technologies and tools used,
 followed by an explanation of each module within the `src` folder.
+
 ---
-## Tools and Technologies 
 
 ## Tools and Technologies  
 
